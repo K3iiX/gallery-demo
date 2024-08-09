@@ -30,7 +30,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 ## TODO
 
-- [] Make it deploy (vercel)
+- [x] Make it deploy (vercel)
 - [] Scaffold basic ui with mock data
 - [] Actually set up a database (vercel postgres)
 - [] Attach database to UI
